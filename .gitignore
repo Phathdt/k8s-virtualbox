@@ -1,4 +1,6 @@
 *.retry
 /.vagrant
-/kubernetes-setup/join-command
 *.log
+/*/.vagrant
+*/join-command
+/join-command
